@@ -12,6 +12,8 @@ module pc (
         else begin
             enderecoSaida = enderecoEntrada;
         end
+
+        
     end
 
 endmodule
