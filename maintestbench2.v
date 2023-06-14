@@ -20,7 +20,9 @@ module maintestbench2();
             $display("######TERMINOU!######");
             $finish;
         end
-        $display("\n\n");
+        $display("\n\n"); 
+
+        
     end
 
     initial begin
