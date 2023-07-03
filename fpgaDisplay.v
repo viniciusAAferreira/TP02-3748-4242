@@ -16,3 +16,4 @@ module fpgaDisplay(
 		4'b0010,
 		saida[13:7]);
 endmodule
+
